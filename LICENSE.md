@@ -18,4 +18,4 @@
 ## 詳細
 
 より詳細な知的財産権に関する方針については、箱庭クラフト公式ドキュメントの
-[IPポリシー](https://docs.hakoniwa-craft.com/docs/ip-policy-711/) を参照してください。
+[IPポリシー](https://docs.hakoniwa-craft.com/ip-policy) を参照してください。

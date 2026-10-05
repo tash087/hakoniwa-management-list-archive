@@ -1,5 +1,29 @@
 [
   {
+    "id": "10-5-1_20-site-pages",
+    "title": "【お知らせ】公式サイトに「基本ルール」「Hakoniwa Suite」のページを新設しました",
+    "date": "2026.10.05",
+    "category_id": "4",
+    "author": "運営チーム",
+    "content": "<p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\">公式サイトに、次の2ページを新設しました。</p><ul style=\"list-style-type: square; padding-left: 20px; margin-bottom: 15px; color: #444444; line-height: 1.7;\"><li style=\"margin-bottom: 5px;\"><strong>基本ルール：</strong>参加するうえで最初に押さえたい5つのルールをまとめたページです。「はじめての方へ」からも案内しています。（<a href=\"https://hakoniwa-craft.com/pages/basic-rules.html\" target=\"_blank\" rel=\"noopener noreferrer\">基本ルール</a>）</li><li style=\"margin-bottom: 5px;\"><strong>Hakoniwa Suite：</strong>箱庭クラフトが独自に開発しているプラグイン群の総称「Hakoniwa Suite」を紹介する特設ページです。ナビゲーションとプラグイン一覧から移動できます。（<a href=\"https://hakoniwa-craft.com/pages/suite.html\" target=\"_blank\" rel=\"noopener noreferrer\">Hakoniwa Suite</a>）</li></ul><p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\">各プラグインの使い方は、ドキュメントサイトの鯖民向け説明書をご覧ください。</p>"
+  },
+  {
+    "id": "10-5-1_10-rules-restructure",
+    "title": "【重要】規約全体の再編と、要約版「基本ルール」の新設（10/5施行）",
+    "date": "2026.10.05",
+    "category_id": "4",
+    "author": "運営チーム",
+    "content": "<p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\">いつも箱庭クラフトをプレイしていただき、誠にありがとうございます。</p><p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\">2026年10月5日（令和8年10月5日）付で、規約全体を再編しました（公布・即日施行）。規約の読みやすさを高めるため、文書の役割を次の3つに分けています。</p><ul style=\"list-style-type: square; padding-left: 20px; margin-bottom: 15px; color: #444444; line-height: 1.7;\"><li style=\"margin-bottom: 5px;\"><strong>周知用：</strong>基本ルール、Q&amp;A、参加方法など。短く平易にまとめ、新しい義務は設けません。</li><li style=\"margin-bottom: 5px;\"><strong>規定用（正文）：</strong>利用規約、処罰規定、ワールド・建築ガイドライン、権利・コンテンツ規定、プライバシーポリシーなど。</li><li style=\"margin-bottom: 5px;\"><strong>手続き（細則）：</strong>各種申請・手続きの手順をまとめた「各種申請・手続きの細則」。</li></ul><h4 style=\"font-size: 16px; font-weight: bold; color: #111111; border-left: 4px solid #555555; padding-left: 10px; margin-bottom: 10px;\">主な変更点</h4><ul style=\"list-style-type: square; padding-left: 20px; margin-bottom: 15px; color: #444444; line-height: 1.7;\"><li style=\"margin-bottom: 5px;\">最初に押さえたい5つの要点をまとめた要約版「基本ルール」を新設しました。</li><li style=\"margin-bottom: 5px;\">重複していた規定を整理し、土地の申請・撤去は「ワールド・建築ガイドライン」へ、知的財産権は「権利・コンテンツ規定」へ移しました。</li><li style=\"margin-bottom: 5px;\">ペナルティに関する規定を「処罰規定」に一本化しました。</li><li style=\"margin-bottom: 5px;\">本サーバー外のトラブルを持ち込むことを禁止する規定を、利用規約に新設しました。</li><li style=\"margin-bottom: 5px;\">基本ルール・利用規約・処罰規定・プライバシーポリシーの英語版（参考訳）を公開しました。</li></ul><p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\">改定前の内容は、各規約ページ末尾の備考欄にあるリンクから確認できます。変更の一覧は、更新履歴ページにもまとめています。</p><p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\"><a href=\"https://docs.hakoniwa-craft.com/basic-rules\" target=\"_blank\" rel=\"noopener noreferrer\">基本ルールはこちら</a> ／ <a href=\"https://docs.hakoniwa-craft.com/changelog\" target=\"_blank\" rel=\"noopener noreferrer\">更新履歴はこちら</a></p>"
+  },
+  {
+    "id": "10-5-1_00-youtube-open",
+    "title": "【お知らせ】箱庭クラフト公式YouTubeチャンネルを開設しました",
+    "date": "2026.10.05",
+    "category_id": "4",
+    "author": "運営チーム",
+    "content": "<p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\">いつも箱庭クラフトをプレイしていただき、誠にありがとうございます。</p><p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\">このたび、箱庭クラフトの公式YouTubeチャンネルを開設しました。今後は、お知らせやサーバーの情報などを動画でも発信していきます。</p><h4 style=\"font-size: 16px; font-weight: bold; color: #111111; border-left: 4px solid #555555; padding-left: 10px; margin-bottom: 10px;\">公式アカウント一覧</h4><ul style=\"list-style-type: square; padding-left: 20px; margin-bottom: 15px; color: #444444; line-height: 1.7;\"><li style=\"margin-bottom: 5px;\">YouTube：<a href=\"https://www.youtube.com/@hakoniwa_craft\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.youtube.com/@hakoniwa_craft</a></li><li style=\"margin-bottom: 5px;\">X：<a href=\"https://x.com/hakoniwa_craft\" target=\"_blank\" rel=\"noopener noreferrer\">https://x.com/hakoniwa_craft</a></li><li style=\"margin-bottom: 5px;\">Discord：<a href=\"https://discord.gg/g3g4AwuBRE\" target=\"_blank\" rel=\"noopener noreferrer\">https://discord.gg/g3g4AwuBRE</a></li></ul><p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\">各リンクは、公式サイトのフッターやお問い合わせページ、ドキュメントサイトにも掲載しています。</p>"
+  },
+  {
     "id": "7-13_22_00-rules-summary",
     "title": "【重要】各種規約・ガイドラインの一斉施行（7/13統一）および改定・修正内容のまとめ",
     "date": "2026.07.13",
